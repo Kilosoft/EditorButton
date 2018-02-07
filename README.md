@@ -6,6 +6,7 @@ Add Button from method to Inspector Unity3D
 ![Debug Screen](./Doc/Debug.JPG)
 
 ## Installation
+Download the UnityPackage from the [latest releases](https://github.com/Kilosoft/EditorButton/releases) and import it into Unity. The directory can be moved after being imported.
 
 ## Usage
 Add
@@ -30,3 +31,5 @@ public class TestScriptButton : MonoBehaviour
     }
 }
 ```
+`Thank you! Good luck!
+Kilosoft`
